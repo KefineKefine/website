@@ -1,3 +1,3 @@
 # website
-website for TLE class demo
+website demo
 https://kefinekefine.github.io/website/

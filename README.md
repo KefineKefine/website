@@ -1,3 +1,3 @@
-# website
-website demo
+# Website
+A website demo: 
 https://kefinekefine.github.io/website/
